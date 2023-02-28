@@ -1,5 +1,5 @@
 # WebScrapingImages
-Web scraping images to use for image classification project.
+Web scraping images (in this case images of crocodiles ) to use for image classification project.
 
 This involved:
 
