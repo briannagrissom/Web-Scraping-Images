@@ -1,5 +1,5 @@
 # Web-scraping Images
-Web-scraping crocodile images to use for an image classification project.
+Web-scrape crocodile images to use for an image classification project.
 
 Includes:
 
