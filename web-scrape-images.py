@@ -23,3 +23,4 @@ for item in images:
     path= '/Users/briannagrissom/CrocGator/croc'
     urllib.request.urlretrieve(item, path + str(number) +'.jpeg')
     number= number + 1
+
